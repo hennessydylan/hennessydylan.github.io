@@ -1,12 +1,5 @@
-henny.dev by Dylan J. Hennessy
-henny.dev | @hennessydylan @hennyboiszz
-Free for personal use.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+dylanhennessy.com by Dylan J. Hennessy
+dylanhennessy.com | @hennessydylan @hennyboiszz
 
 Credits:
 
